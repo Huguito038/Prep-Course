@@ -1,0 +1,13 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos
+ como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+ cualquier agujero en tu comprensión.
+
+* `for` = Este comando crea un bucle que se utiliza para repetir una o mas instrucciones dadas por el programador
+hasta que la condicion que ingresemos sea FALSA. Hay que tenes cuidado de dejar ciclos de FOR que se repitan de 
+forma inifita sin corte. 
+
+
+* `&&`, `||`, `!` = Estos valores o iconos que vemos, son valores que acompañan a un condicional IF o a otro tipos
+de secuencias, significan (&& = AND, se cumplen dos o mas condiciones== True) (|| = OR, se cumple una sola de 
+todas las condiciones==True) (! = NOT, se pone en un parentesis antes de la condicion, y si esa condicion 
+NO se cumple es True y si se cumple False)
