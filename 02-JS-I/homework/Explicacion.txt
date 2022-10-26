@@ -1,0 +1,19 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes 
+conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a
+ descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables= Este elemento es como si fuera una caja donde se puede guardar informacion (texto,numeros,etc)
+ y puede ser modifiacada, por es su nombre Variable
+
+ * Strings= Los string son datos que juntos componen o representan un texto
+
+
+ * Funciones (argumentos, `return`)= Una funcion es un conjunto de instrucciones que le damos a la computadora
+ para que realize determinada accion, la funciones toman elementos de entrada y devuelven elementos de salida
+ "RETURN"
+
+ * Declaraciones `if`= Estas declaraciones se hacen para verificar entre uno o mas elementos del codigos, para 
+ que nos retonen valores booleanos de salida para realizar determinadas acciones
+
+ * Valores booleanos (`true`, `false`)= Estos valores no son numeros ni letras ni cadenas, son elementos que retornan
+ un valor de Verdadero o Falso con el que podemos realizar diferentes acciones y darles distintos usos
