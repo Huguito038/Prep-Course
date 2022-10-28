@@ -1,0 +1,19 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos
+ como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente
+  cualquier agujero en tu comprensión.
+
+	* Objetos= Los objetos son variables para guardad claves y valores (asi como usuario-contraseña),estos 
+    sirven para hacer mas dinamico el hecho del guardado y manejo de datos
+
+	* Propiedades= Las propiedades de un objeto son los indices dentro de los cuales guardamos mas cosas(Nombre,Apellido,Direccion...)
+
+	* Métodos: Los metodos no son mas que una funcion() dentro de un objeto, asi se les denomina a las funciones
+    cuando estan dentro de un objeto.
+
+	* Bucle `for…in`: Estos bucles son una rama de los bucles for que sirve para indagar dentro de los objetos,
+    por su clave y su valor (podiendo hacer con estos datos lo que querramos)
+
+	* Notación de puntos vs notación de corchetes=Estas notaciones son similares pero distintas a la vez,
+    las dos sirven para llamar a una propiedad de un objeto, pero la notacion de puntos llama a la propiedad
+    con el nombre tal cual esta escrito y la notacion de corchetes podemos acceder a la propiedad llamando a una
+    variable que contega el nombre de la propiedad a llamar.
