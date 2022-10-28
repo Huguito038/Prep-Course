@@ -1,0 +1,6 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
+
+Funciones Callback: Las funciones callbacks son funciones llamadas dentro de otras funciones como argumentos,
+estas funciones son muy utilizadas para el ahorro de codigos y son comunes en el lenguaje.
