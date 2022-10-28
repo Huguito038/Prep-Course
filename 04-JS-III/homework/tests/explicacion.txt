@@ -1,8 +1,0 @@
-1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes 
-conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a 
-descubrir rápidamente cualquier agujero en tu comprensión.
-
-	* Arrays= Los arrays son cadenas o composiciones en una variable que se utilizan para coleccionar datos
-    ya sean cadenas de t4exto, numeros o variantes booleanas. Estos arrays o matrices se pueden acceder a ellos
-    en cualquier momento, llamando a la posicion del archivo deseado dentro de la matriz
-    const MATRIZ = [posicion 0, posicion 1, posicion 2,etc]

@@ -1,0 +1,9 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
+
+Prototype= Estos son mecanismos mediante los cuales los objetos en JavaScript heradan sus metodos, para ser 
+utilizados en distintas ocaciones.
+
+Constructors (de Clases)= Los constructores estan hechos para facilitar la tarea del programador y no tener
+que andar repitiendo lineas de codigo para crear objetos (clases) con los mismos atributos.
