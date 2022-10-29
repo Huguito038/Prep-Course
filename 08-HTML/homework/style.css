@@ -1,0 +1,11 @@
+
+h1{color: black;font-style: italic;}
+img{width: 400px;;height: 250px;;}
+#thirdDiv{background-color: lemonchiffon;
+width: 500px;height: 600px;padding: 50px;border: 10px;border-color: black;border-style: double;border-radius: 10px;}
+#SpanId{font-size: 18px;margin: 50px;padding: 50px;color: black;}
+.divClass{text-align: center;}
+body{background-image: url(https://us.123rf.com/450wm/krekdm/krekdm1610/krekdm161000233/67736852-dibujado-a-mano-vector-de-patr%C3%B3n-de-comida-r%C3%A1pida-sin-problemas-los-elementos-de-comida-del-bosquejo.jpg);background-repeat: no-repeat;background-attachment: fixed;background-size:cover;text-align: center;}
+#thirdDiv{margin-left: 345px;}
+a{font-size: large;color: black;background-color: burlywood;border-radius: 5px;}
+body{display: flex;flex-direction: column;flex-wrap: nowrap;justify-content: center;}
